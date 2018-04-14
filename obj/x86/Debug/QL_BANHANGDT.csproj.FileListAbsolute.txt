@@ -1,0 +1,24 @@
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\bin\Debug\QL_BANHANGDT.exe
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\bin\Debug\QL_BANHANGDT.pdb
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\QL_BANHANGDT.Properties.Resources.resources
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\QL_BANHANGDT.View.FrmNhanVien.resources
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\QL_BANHANGDT.exe
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\QL_BANHANGDT.pdb
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\QL_BANHANGDT.View.FrmKhachHang.resources
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\QL_BANHANGDT.View.FrmHangHoa.resources
+D:\DO AN NGANH\QL_BANHANGDT\QL_BANHANGDT\obj\x86\Debug\QL_BANHANGDT.View.FrmHoaDon.resources
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\QL_BANHANGDT.exe
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\QL_BANHANGDT.pdb
+C:\Users\VanThin\Desktop\QL_KhachSan\bin\Debug\QL_BANHANGDT.exe
+C:\Users\VanThin\Desktop\QL_KhachSan\bin\Debug\QL_BANHANGDT.pdb
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\QL_BANHANGDT.Properties.Resources.resources
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\QL_BANHANGDT.View.FrmHoaDon.resources
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\QL_BANHANGDT.View.FrmKhachHang.resources
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\QL_BANHANGDT.View.FrmNhanVien.resources
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VanThin\Desktop\QL_KhachSan\obj\x86\Debug\QL_BANHANGDT.View.FrmPhong.resources
